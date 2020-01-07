@@ -1,5 +1,5 @@
 {
-  "store.product": {
+  "store.product.sellers": {
     "children": [
       "flex-layout.row#product-breadcrumb",
       "flex-layout.row#product-main",
@@ -78,6 +78,7 @@
       "sku-selector",
       "product-quantity",
       "product-assembly-options",
+      "seller-selector",
       "flex-layout.row#buy-button",
       "availability-subscriber",
       "shipping-simulator",
