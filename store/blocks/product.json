@@ -78,7 +78,7 @@
       "sku-selector",
       "product-quantity",
       "product-assembly-options",
-      "seller-selector",
+      "seller-link",
       "flex-layout.row#buy-button",
       "availability-subscriber",
       "shipping-simulator",

@@ -1,6 +1,6 @@
 {
    "store.product.sellers": {
-      "allowed": ["seller-selector"],
+      "allowed": ["seller-link"],
       "around": ["productWrapper"],
       "context": "ProductContext"
    }
